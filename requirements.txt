@@ -3,3 +3,4 @@ openai
 PyPDF2
 streamlit
 replicate
+google-search-results
